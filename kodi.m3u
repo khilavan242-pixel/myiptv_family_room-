@@ -2,3 +2,6 @@
 
 #EXTINF:-1 group-title="Lakshya - Moral Values" play-status="working" tvg-logo="https://img.youtube.com/vi/a0KRly6n-GI/hqdefault.jpg", CH1: hanuman ji
 plugin://plugin.video.youtube/play/?video_id=a0KRly6n-GI
+
+
+plugin://plugin.video.youtube/play/?video_id=Q3jvRgipqSc
