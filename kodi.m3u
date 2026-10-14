@@ -5,4 +5,6 @@ plugin://plugin.video.youtube/play/?video_id=a0KRly6n-GI
 
 
 plugin://plugin.video.youtube/play/?video_id=Q3jvRgipqSc
-plugin://plugin.video.youtube/play/?video_id=PLPtLVAPvARnzTqd9-4Ihtu8ymCQguVSB7
+#EXTINF:-1 group-title="Lakshya - Moral Values" play-status="working" tvg-logo="https://youtube.com", CH2: Playlist Name
+plugin://plugin.video.youtube/play/?playlist_id=PLPtLVAPvARnzTqd9-4Ihtu8ymCQguVSB7&play=1
+
