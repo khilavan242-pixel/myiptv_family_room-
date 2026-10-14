@@ -1,16 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Jayash - Rhymes" play-status="working" tvg-logo="https://img.youtube.com/vi/yLl72GVY5Js/hqdefault.jpg", CH1: हमारा परिवार
-plugin://plugin.video.youtube/play/?video_id=yLl72GVY5Js
-
-#EXTINF:-1 group-title="Jayash - Rhymes" play-status="working" tvg-logo="https://img.youtube.com/vi/i_3ZCrhXd9o/hqdefault.jpg", CH2: रेल
-plugin://plugin.video.youtube/play/?video_id=i_3ZCrhXd9o
-
-#EXTINF:-1 group-title="Jayash - Rhymes" play-status="working" tvg-logo="https://img.youtube.com/vi/RQN3lqcCS_w/hqdefault.jpg", CH3: बारिश
-plugin://plugin.video.youtube/play/?video_id=RQN3lqcCS_w
-
-#EXTINF:-1 group-title="Jayash - Rhymes" play-status="working" tvg-logo="https://img.youtube.com/vi/RGyZxhQkzxE/hqdefault.jpg", CH4: पतंग
-plugin://plugin.video.youtube/play/?video_id=RGyZxhQkzxE
-
-#EXTINF:-1 group-title="Jayash - Rhymes" play-status="working" tvg-logo="https://img.youtube.com/vi/OZoGV_B0Y5Y/hqdefault.jpg", CH5: साइकिल
-plugin://plugin.video.youtube/play/?video_id=OZoGV_B0Y5Y
+#EXTINF:-1 group-title="Lakshya - Jnv" play-status="working" tvg-logo="https://img.youtube.com/vi/qo7gv399EjE/hqdefault.jpg", CH1: Mental Ability
+plugin://plugin.video.youtube/play/?video_id=qo7gv399EjE
