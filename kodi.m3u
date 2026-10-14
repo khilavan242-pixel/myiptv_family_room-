@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Lakshya - Jnv" play-status="working" tvg-logo="https://img.youtube.com/vi/qo7gv399EjE/hqdefault.jpg", CH1: Mental Ability
-plugin://plugin.video.youtube/play/?video_id=qo7gv399EjE
+#EXTINF:-1 group-title="Lakshya - Moral Values" play-status="working" tvg-logo="https://img.youtube.com/vi/a0KRly6n-GI/hqdefault.jpg", CH1: hanuman ji
+plugin://plugin.video.youtube/play/?video_id=a0KRly6n-GI
