@@ -1,9 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Lakshya - Moral Values" play-status="working" tvg-logo="https://img.youtube.com/vi/a0KRly6n-GI/hqdefault.jpg", CH1: hanuman ji
-plugin://plugin.video.youtube/play/?video_id=rjoD7e1ivc0
+#EXTINF:-1 group-title="Class 1" tvg-logo="https://img.youtube.com/vi/3DN9vP9O3KQ/hqdefault.jpg", CH1: Class 1 Addition (Complete Chapter)
+plugin://plugin.video.youtube/play/?video_id=3DN9vP9O3KQ
 
-
-#EXTINF:-1 group-title="Lakshya - Moral Values" play-status="working" tvg-logo="https://youtube.com", CH2: Playlist Name
-plugin://plugin.video.youtube/play/?playlist_id=PLPtLVAPvARnzTqd9-4Ihtu8ymCQguVSB7&play=1
-
+#EXTINF:-1 group-title="Class 1" tvg-logo="https://img.youtube.com/vi/UVCDuVWfg6U/hqdefault.jpg", भैरा काका चलिस डोंगरगढ़ नवरात्रि स्पेशल ‼️COMEDY VIDEO CG #cgkivines #sagarvlogcg #comedy
+plugin://plugin.video.youtube/play/?video_id=UVCDuVWfg6U
